@@ -1,0 +1,5 @@
+net\mcree\sbapp\SpringBootApp.class
+net\mcree\sbapp\entities\SensorReadingRepository.class
+net\mcree\sbapp\EndSystemUris.class
+net\mcree\sbapp\controller\EndSystemController.class
+net\mcree\sbapp\entities\SensorReading.class
